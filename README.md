@@ -96,7 +96,7 @@ npm install
 npm run build
 npm run start
 ```
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+Open [[(https://angaar-labs-phi.vercel.app/](https://angaar-labs-phi.vercel.app/)) in your browser.
 
 ---
 
